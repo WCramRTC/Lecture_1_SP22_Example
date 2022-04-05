@@ -1,0 +1,14 @@
+/* This is a style sheet. It's where you will place all the code you use for visual formatting in the future */
+
+#futureExample {
+    border: 10px solid beige;
+    width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: inset -5px 5px 10px grey;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
